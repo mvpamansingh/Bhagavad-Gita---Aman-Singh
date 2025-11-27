@@ -13,12 +13,22 @@ A beautiful, feature-rich Android application that brings the timeless wisdom of
 
 ## 📱 Screenshots
 
-![1](https://github.com/user-attachments/assets/16955624-1bbe-40b3-9c60-bd0379c2b53d)
-![2](https://github.com/user-attachments/assets/7fa66eda-1b01-4c6e-8ef3-e29bc49d2283)
-![3](https://github.com/user-attachments/assets/2bbc7477-2dfc-4e9f-be8c-788a64b1af92)
-![4](https://github.com/user-attachments/assets/e028c45c-c1e4-412d-8e81-c9caed1f3f44)
-![5](https://github.com/user-attachments/assets/f4c92a33-80c6-4435-865a-336cd1c4e66a)
-![6](https://github.com/user-attachments/assets/87e662b9-74ab-428f-ad16-22621e017eaf)
+## 📱 Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/16955624-1bbe-40b3-9c60-bd0379c2b53d" alt="Screenshot 1" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7fa66eda-1b01-4c6e-8ef3-e29bc49d2283" alt="Screenshot 2" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2bbc7477-2dfc-4e9f-be8c-788a64b1af92" alt="Screenshot 3" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e028c45c-c1e4-412d-8e81-c9caed1f3f44" alt="Screenshot 4" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f4c92a33-80c6-4435-865a-336cd1c4e66a" alt="Screenshot 5" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/87e662b9-74ab-428f-ad16-22621e017eaf" alt="Screenshot 6" width="250"/></td>
+  </tr>
+</table>
+
+## ✨ Features
 
 ## ✨ Features
 
