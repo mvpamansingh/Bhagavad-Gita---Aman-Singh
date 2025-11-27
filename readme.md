@@ -11,7 +11,7 @@
 A beautiful, feature-rich Android application that brings the timeless wisdom of the Bhagavad Gita to your mobile device. Experience the sacred teachings of Lord Krishna with modern UI design and comprehensive spiritual content.
 </p>
 
-## 📱 Screenshots
+
 
 ## 📱 Screenshots
 
