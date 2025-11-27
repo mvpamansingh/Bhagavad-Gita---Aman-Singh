@@ -13,7 +13,12 @@ A beautiful, feature-rich Android application that brings the timeless wisdom of
 
 ## 📱 Screenshots
 
-<!-- Add your app screenshots here -->
+![1](https://github.com/user-attachments/assets/16955624-1bbe-40b3-9c60-bd0379c2b53d)
+![2](https://github.com/user-attachments/assets/7fa66eda-1b01-4c6e-8ef3-e29bc49d2283)
+![3](https://github.com/user-attachments/assets/2bbc7477-2dfc-4e9f-be8c-788a64b1af92)
+![4](https://github.com/user-attachments/assets/e028c45c-c1e4-412d-8e81-c9caed1f3f44)
+![5](https://github.com/user-attachments/assets/f4c92a33-80c6-4435-865a-336cd1c4e66a)
+![6](https://github.com/user-attachments/assets/87e662b9-74ab-428f-ad16-22621e017eaf)
 
 ## ✨ Features
 
@@ -31,26 +36,22 @@ A beautiful, feature-rich Android application that brings the timeless wisdom of
 - **Word Meanings**: Understand each Sanskrit word's significance
 
 ### 🔖 **Bookmarking System**
-- **Save Chapters**: Bookmark entire chapters for easy access
+- **Save Chapters**: Bookmark entire chapters for easy access which includes all verses
 - **Verse Bookmarks**: Mark individual verses for reference
 - **Personal Library**: Organize your saved spiritual content
 - **Quick Access**: Navigate directly to bookmarked content
 
 ### 🏛️ **Virtual Temple**
 - **Sacred Experience**: Create a divine atmosphere for meditation
-- **Interactive Elements**: Immersive spiritual environment
+- **Interactive Elements**: Perform Aarti song animation, offer flowers, ring bells, play bhajans
 - **Peaceful Interface**: Designed for contemplation and prayer
 
 ### 📚 **Krishna Leela Stories**
 - **Divine Pastimes**: Explore stories from Krishna's life
 - **Chapter Organization**: Well-structured narrative content
 - **Rich Storytelling**: Engaging presentation of sacred tales
-- **Spiritual Wisdom**: Learn through divine stories
 
-### 🎵 **Krishna Mantras**
-- **Sacred Chants**: Collection of powerful mantras
-- **Devotional Practice**: Support for daily spiritual routine
-- **Audio Integration**: (Feature in development)
+
 
 ### 🎨 **Customization & Themes**
 - **Multiple Themes**: Choose from various spiritual color schemes
@@ -103,6 +104,9 @@ A beautiful, feature-rich Android application that brings the timeless wisdom of
 - **Kapt** - Annotation processing
 - **ProGuard** - Code obfuscation and optimization
 
+### **Backend**
+- **Nodejs**- Utilized as the runtime environment for server-side development
+- **express**- Employed as the web application framework to build and manage the server
 ## 🏗️ Project Structure
 
 ```
@@ -139,33 +143,9 @@ app/src/main/java/com/mvpamansingh/shrimadbhagavadgita/
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/BhagavadGitaGyan.git
-   cd BhagavadGitaGyan
-   ```
+**Visit Playstore** - https://play.google.com/store/apps/details?id=com.mvpamansingh.shrimadbhagavadgita
 
-2. **Open in Android Studio**
-   - Launch Android Studio
-   - Select "Open an existing project"
-   - Navigate to the cloned repository
-   - Wait for Gradle sync to complete
 
-3. **Build and Run**
-   ```bash
-   ./gradlew clean build
-   ./gradlew installDebug
-   ```
-
-### Configuration
-
-1. **API Configuration** (if applicable)
-   - Add your API keys to `local.properties`
-   - Configure network endpoints in `GeetaApi.kt`
-
-2. **Database Setup**
-   - Room database is automatically initialized
-   - No manual setup required for local storage
 
 ## 📖 API Integration
 
@@ -188,20 +168,6 @@ data class VerseDetail(
 )
 ```
 
-## 🎨 UI/UX Features
-
-### **Design Philosophy**
-- **Spiritual Aesthetics** - Colors and fonts inspired by traditional Indian art
-- **Sacred Typography** - Authentic Sanskrit fonts and proper diacritics
-- **Peaceful Interface** - Calming colors and smooth animations
-- **Accessibility** - Support for different text sizes and contrast
-
-### **Interactive Elements**
-- **Smooth Navigation** - Custom transitions between screens
-- **Lottie Animations** - Engaging micro-interactions
-- **Material 3 Components** - Modern, familiar UI patterns
-- **Responsive Design** - Optimized for different screen sizes
-
 ## 🔧 Development
 
 ### **Build Variants**
@@ -214,14 +180,7 @@ data class VerseDetail(
 - **SOLID Principles** - Maintainable and testable code
 - **Documentation** - Comprehensive code documentation
 
-### **Testing**
-```bash
-# Run unit tests
-./gradlew test
 
-# Run instrumented tests
-./gradlew connectedAndroidTest
-```
 
 ## 📱 Compatibility
 
@@ -237,42 +196,13 @@ The app requires the following permissions:
 - `INTERNET` - For fetching verse content and updates
 - `ACCESS_NETWORK_STATE` - For checking network connectivity
 
-## 🤝 Contributing
-
-We welcome contributions to make this spiritual app even better!
-
-### **How to Contribute**
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### **Contribution Guidelines**
-- Follow Kotlin coding conventions
-- Write meaningful commit messages
-- Add appropriate documentation
-- Test your changes thoroughly
-- Respect the spiritual nature of the content
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Bhagavad Gita Translations** - Various renowned scholars and translators
-- **Sanskrit Resources** - Traditional texts and authentic sources
-- **Open Source Libraries** - All the amazing libraries that make this app possible
-- **Community** - Everyone who contributes to spreading spiritual knowledge
 
 ## 📞 Support
 
 If you encounter any issues or have suggestions:
 
-- **Email**: [your-email@domain.com]
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/BhagavadGitaGyan/issues)
-- **Discussions**: [Join our discussions](https://github.com/yourusername/BhagavadGitaGyan/discussions)
+- **Email**: [amansingh.as9@outlook.com]
+
 
 ## 📈 Roadmap
 
